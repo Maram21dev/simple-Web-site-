@@ -194,7 +194,7 @@ span{
 }
 
 .typing-text span::before{
-    content: "Web dev learner";
+    content: "Web deve";
     color: #b74b4b;
     animation: words 20s infinite;
 }
@@ -218,10 +218,10 @@ span{
 
 @keyframes words{
     0%,30%{
-        content: "16 years old girl";
+        content: "girl at 16 y ";
     }
     31%,70%{
-        content: "Web dev learner";
+        content: "Web developer";
     }
     71%,100%{
         content: "English learner";
